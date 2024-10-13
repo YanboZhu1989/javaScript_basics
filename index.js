@@ -68,7 +68,7 @@ profilePhoto.classList.add("profile-image");
 
 const img = document.createElement("img");
 img.alt = "profile photo";
-img.src = "/public/images/images/profile/profile_1.png";
+img.src = "/images/images/profile/profile_1.png";
 profilePhoto.appendChild(img);
 
 const profileDescription = document.createElement("div");
